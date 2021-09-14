@@ -1,4 +1,4 @@
-# Liveview HEEx inerpolation on html tags
+# Liveview HEEx interpolation on html tags
 
 In creating a new application; I was following the Phoenix 1.6 RC0 path, the release notes talked about the new HEEx Engine. 
 
